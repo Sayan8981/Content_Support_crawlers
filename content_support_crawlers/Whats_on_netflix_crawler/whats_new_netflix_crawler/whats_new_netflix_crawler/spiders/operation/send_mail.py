@@ -20,7 +20,7 @@ class send_emails:
     def user_input(self):
         self.sender_email="saayan@headrun.com"
         self.receiver_email=["hott@headrun.com"]
-        self.password="9891274567"
+        self.password="9****************"
 
     def user_message(self):
         text="""Hi Team,
